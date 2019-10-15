@@ -136,7 +136,6 @@ personally speaking, starting to learn object segmentation should follow these s
 6. Step 5: Advanced **Machine Learning**. ... 
 7. Step 6: Participate in main stream Kaggle Competition.
 
-​	
 
 ## Conclusions
 
